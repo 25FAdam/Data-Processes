@@ -15,6 +15,7 @@ This project focuses on developing a machine learning model to predict COVID-19 
 │   └── hospital2.csv             # Synthetic patient data from hospital two
 └── README.md                     # Project description and instructions
 └── DataProcess_presentation.pdf  # Project presentation
+└── requirements.txt              # Python dependencies required to run the notebook
 ```
 
 ## Business & Data Mining Goals
