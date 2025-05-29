@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on developing a machine learning model to predict COVID-19 positivity using synthetic patient data from two hospitals. The goal is to support early detection and optimize hospital resource allocation. The project was completed as part of the Data Processes course at Universidad Politécnica de Madrid (UPM).
+This project focuses on developing a machine learning model to predict COVID-19 positivity using synthetic patient data from two hospitals. The goal is to support early detection and optimize hospital resource allocation. The project was completed as part of the Data Processes course at Universidad Politécnica de Madrid (Master in Digital Innovation - EIT Digital).
 
 ## 📁 Project Structure
 ```
